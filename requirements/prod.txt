@@ -301,12 +301,15 @@ numpy==1.23.1
     #   -r requirements/base.in
     #   clearml
     #   matplotlib
+    #   opencv-python-headless
     #   pandas
     #   sagemaker
     #   scikit-learn
     #   scipy
     #   seaborn
     #   tensorflow-hub
+opencv-python-headless==4.6.0.66
+    # via -r requirements/base.in
 orderedmultidict==1.0.1
     # via furl
 packaging==21.3

@@ -5,7 +5,7 @@ imutils
 keras
 matplotlib
 numpy
-# opencv_python
+opencv-python-headless
 pandas
 requests
 sagemaker
