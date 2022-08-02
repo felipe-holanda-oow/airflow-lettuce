@@ -5,11 +5,12 @@ imutils
 keras
 matplotlib
 numpy
-opencv_python
+# opencv_python
 pandas
 requests
 sagemaker
 scikit_learn
 seaborn
+# tensorflow
 tensorflow_hub
 tqdm
