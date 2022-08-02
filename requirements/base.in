@@ -1,0 +1,16 @@
+apache-airflow[postgres,celery,redis]
+apache_airflow_providers_amazon
+clearml
+imutils
+keras
+matplotlib
+numpy
+opencv_python
+pandas
+requests
+sagemaker
+scikit_learn
+seaborn
+tensorflow
+tensorflow_hub
+tqdm
