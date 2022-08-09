@@ -9,7 +9,6 @@ opencv-python-headless
 pandas
 requests
 sagemaker
-scikit_learn
 seaborn
 tensorflow-cpu
 tensorflow_hub

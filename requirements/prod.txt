@@ -253,8 +253,6 @@ jmespath==1.0.1
     # via
     #   boto3
     #   botocore
-joblib==1.1.0
-    # via scikit-learn
 jsonpath-ng==1.5.3
     # via apache-airflow-providers-amazon
 jsonschema==4.9.0
@@ -341,7 +339,6 @@ numpy==1.23.1
     #   opt-einsum
     #   pandas
     #   sagemaker
-    #   scikit-learn
     #   scipy
     #   seaborn
     #   tensorboard
@@ -499,12 +496,8 @@ s3transfer==0.6.0
     # via boto3
 sagemaker==2.101.1
     # via -r requirements/base.in
-scikit-learn==1.1.1
-    # via -r requirements/base.in
 scipy==1.9.0
-    # via
-    #   scikit-learn
-    #   seaborn
+    # via seaborn
 scramp==1.4.1
     # via redshift-connector
 seaborn==0.11.2
@@ -580,8 +573,6 @@ termcolor==1.1.0
     #   tensorflow-cpu
 text-unidecode==1.3
     # via python-slugify
-threadpoolctl==3.1.0
-    # via scikit-learn
 tornado==6.2
     # via flower
 tqdm==4.64.0
