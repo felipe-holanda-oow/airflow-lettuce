@@ -11,6 +11,6 @@ requests
 sagemaker
 scikit_learn
 seaborn
-# tensorflow
+tensorflow-cpu
 tensorflow_hub
 tqdm
